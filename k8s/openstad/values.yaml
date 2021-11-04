@@ -27,7 +27,7 @@ dependencies:
 
   ## SSL
   cert-manager:
-    enabled: true
+    enabled: false
 
 # Internal config
 public:
